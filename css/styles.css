@@ -1,0 +1,41 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+}
+
+p {
+  color: burlywood;
+  text-align: center;
+}
+h1 {
+  color: rgb(255, 145, 0);
+  text-align: center;
+}
+h4 {
+  color: rgb(255, 145, 0);
+  text-align: center;
+}
+ul {
+  color: rgb(16, 207, 26);
+  text-align: center;
+  list-style: none;
+}
+img {
+  margin: 0 auto;
+  display: block;
+}
+a {
+  display: block;
+  text-align: center;
+  color: red;
+}
+.verse {
+  display: table;
+  margin: 0 auto;
+  white-space: pre-line;
+  word-wrap: break-word;
+}
+ol {
+  text-align: center;
+  color: rgb(255, 137, 255);
+}
